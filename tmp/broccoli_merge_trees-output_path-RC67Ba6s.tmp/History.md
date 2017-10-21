@@ -1,0 +1,1 @@
+/Users/nunomartins/ember-quickstart/tmp/broccoli_merge_trees-input_base_path-sEjdSx7o.tmp/2/History.md

@@ -1,0 +1,1 @@
+/Users/nunomartins/ember-quickstart/tmp/broccoli_merge_trees-input_base_path-I0s1mADk.tmp/1/assets/test-support.js

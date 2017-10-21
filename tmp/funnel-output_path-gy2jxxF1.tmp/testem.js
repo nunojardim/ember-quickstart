@@ -1,0 +1,1 @@
+/Users/nunomartins/ember-quickstart/tmp/funnel-input_base_path-2hN5l4bk.tmp/testem.js

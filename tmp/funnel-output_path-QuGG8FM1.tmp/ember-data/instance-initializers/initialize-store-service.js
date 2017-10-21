@@ -1,0 +1,1 @@
+/Users/nunomartins/ember-quickstart/tmp/funnel-input_base_path-bwZrl415.tmp/instance-initializers/initialize-store-service.js

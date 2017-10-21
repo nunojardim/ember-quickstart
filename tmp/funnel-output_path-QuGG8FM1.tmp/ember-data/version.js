@@ -1,0 +1,1 @@
+/Users/nunomartins/ember-quickstart/tmp/creator-output_path-GsVXerwa.tmp/version.js
